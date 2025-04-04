@@ -12,8 +12,8 @@
 
 
 🔧 **Proyectos destacados**:  
-- [API REST con Spring Boot](https://github.com/dianacorrea-1527/API-REST-JAVA-SPRINGBOOT)  
-- [Autenticación JWT + Spring Security](https://github.com/dianacorrea-1527/JWT-AUTHENTICATION-SPRING-SECURITY)
+- [API REST con Spring Boot](https://github.com/https://github.com/CarlosAriasLK/BusinessIntelligence)  
+- [Autenticación JWT + Spring Security](https://github.com/https://github.com/CarlosAriasLK/BusinessIntelligence)
 - | [Chatbot con GPT](https://github.com/dianacorrea-1527/chatBotGpt) | Integración avanzada con OpenAI API para respuestas contextuales. | Node.js, Express, OpenAI |  
 
 
