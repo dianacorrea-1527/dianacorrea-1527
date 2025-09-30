@@ -1,7 +1,7 @@
 # ¡Hola 👋! Soy Diana Correa  
 ### **Ingeniera en Telecomunicaciones|Desarrolladora Backend | Java (Spring Boot) & Node.js | APIs REST".**  
 
-Ingeniera en Telecomunicaciones con formación especializada en desarrollo backend con Java y el ecosistema Spring Boot. Competente en el diseño e implementación de APIs RESTful, gestión de bases de datos relacionales con PostgreSQL y prácticas de desarrollo ágil. Destaco por mi capacidad de análisis, disciplina y rápido aprendizaje para integrarme efectivamente en equipos técnicos y contribuir en entornos de microservicios
+Ingeniera en Telecomunicaciones con formación especializada en desarrollo backend con Java y el ecosistema Spring Boot. Competente en el diseño e implementación de APIs RESTful, gestión de bases de datos relacionales con MySql y prácticas de desarrollo ágil. Destaco por mi capacidad de análisis, disciplina y rápido aprendizaje para integrarme efectivamente en equipos técnicos y contribuir en entornos de microservicios
 
 
 💻 **Tecnologías**:  
